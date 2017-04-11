@@ -6,14 +6,16 @@
 *   [电影](chapters/01movie#电影)
 	*   [活着](chapters/01movie.md#活着)
 	
-*   [名言](http://github.HandsoFangzhihao.com/#名言)
-	*   [爱情](http://github.HandsoFangzhihao.com/#爱情)
-	*   [人生](http://github.HandsoFangzhihao.com/#人生)
-	*   [孤独](http://github.HandsoFangzhihao.com/#孤独)
-	*   [阅读](http://github.HandsoFangzhihao.com/#阅读)
+*   [名言](chapters/02mingyan.md/#名言)
+	*   [爱情](chapters/02mingyan.md/#爱情)
+	*   [人生](chapters/02mingyan.md/#人生)
+	*   [奋斗](chapters/02mingyan.md/#奋斗)
+	*   [人性](chapters/02mingyan.md/#人性)
+	*   [痛苦](chapters/02mingyan.md/#痛苦)
+	*   [阅读](chapters/02mingyan.md/#阅读)
 
-*   [阅读](http://github.HandsoFangzhihao.com/#阅读)
+*   [阅读](chapters/03read.md/#阅读)
 
-	*   [活着](http://github.HandsoFangzhihao.com/#活着)
-	*   [白日梦想家](http://github.HandsoFangzhihao.com/#白日梦想家)
+	*   [活着](chapters/03read.md/#活着)
+	*   [白日梦想家](chapters/03read.md/#白日梦想家)
 	
