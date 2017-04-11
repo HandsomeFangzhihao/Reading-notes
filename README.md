@@ -3,8 +3,8 @@
 >我想让每一次观看/阅读都变得意义非凡
 
 ##目录
-*   [电影](chapters/01movie.md)
-	*   [活着](chapters/01movie.md)
+*   [电影](chapters/01movie#电影)
+	*   [活着](chapters/01movie.md#活着)
 	
 *   [名言](http://github.HandsoFangzhihao.com/#名言)
 	*   [爱情](http://github.HandsoFangzhihao.com/#爱情)
