@@ -4,7 +4,8 @@
 
 ## 目录
 *   [电影](chapters/01movie.md)
-	*   [活着](chapters/01movie.md#活着)
+	*   
+	[活着](chapters/01movie.md#活着)
 	
 *   [名言](chapters/02mingyan.md)
 	*   [爱情](chapters/02mingyan.md/#爱情)
@@ -15,7 +16,6 @@
 	*   [阅读](chapters/02mingyan.md/#阅读)
 
 *   [阅读](chapters/03read.md)
-
-	*   [活着](chapters/03read.md/#活着)
-	*   [白日梦想家](chapters/03read.md/#白日梦想家)
-	
+	*    [人生](chapters/03read.md/#人生)
+	*    [历史](chapters/03read.md/#历史)
+	*    [社会百态](chapters/03read.md/#社会百态)
