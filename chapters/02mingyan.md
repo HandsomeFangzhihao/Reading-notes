@@ -1,4 +1,6 @@
-！[](images/mingyan.png)
+
+！[image](images/mingyan.png)
+
 # 爱情
 	如果你非要拒绝我，请不要那么绝对。因为你的一句	"我没那么喜欢你"，
 	我都可以解读为"我有一点喜欢你"
