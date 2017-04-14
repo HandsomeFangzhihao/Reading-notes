@@ -1,3 +1,4 @@
+![](images/movie.jpg)
 # 活着
 >标签：生存 希望 
 	
