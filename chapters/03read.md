@@ -1,4 +1,4 @@
-![](images/book.jpg)
+![](https://github.com/HandsomeFangzhihao/Reading-notes/tree/master/images/book.jpg)
 # 人生
 ## 肖申克的救赎
 >标签：希望
