@@ -1,5 +1,4 @@
 # 笔记-电影/名言/阅读
-！[image](https://github.com/HandsomeFangzhihao/Reading-notes/tree/master/images/mingyan.jpg)
 
 >我想让每一次观看/阅读都变得意义非凡
 
