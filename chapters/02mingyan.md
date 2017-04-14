@@ -1,4 +1,4 @@
-![](https://github.com/HandsomeFangzhihao/Reading-notes/tree/master/images/mingyan.jpg)
+![](images/mingyan.png)
 # 爱情
 	如果你非要拒绝我，请不要那么绝对。因为你的一句	"我没那么喜欢你"，
 	我都可以解读为"我有一点喜欢你"
@@ -30,7 +30,7 @@
 									-- 尼采
 	
 	路漫漫其修远兮，吾将上下而求索              
-									--	
+									--	ali
 # 人性
 	人性本凉薄，又何介谁比谁更多
 	
