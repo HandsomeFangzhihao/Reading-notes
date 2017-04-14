@@ -25,6 +25,5 @@
 
 *   [阅读](chapters/03read.md)
 	*    [人生](chapters/03read.md/#人生)
-		*    [肖申克的救赎]（chapters/03read.md/##肖申克的救赎）
 	*    [历史](chapters/03read.md/#历史)
 	*    [社会百态](chapters/03read.md/#社会百态)
