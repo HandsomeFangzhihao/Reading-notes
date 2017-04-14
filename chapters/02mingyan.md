@@ -1,3 +1,4 @@
+#名言
 ![](https://github.com/HandsomeFangzhihao/Reading-notes/tree/master/images/mingyan.jpg)
 # 爱情
 	如果你非要拒绝我，请不要那么绝对。因为你的一句	"我没那么喜欢你"，
