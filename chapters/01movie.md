@@ -1,5 +1,4 @@
-#电影
-![](images/movie.png)
+![](../images/movie.png)
 # 活着
 >标签：生存 希望 
 	
