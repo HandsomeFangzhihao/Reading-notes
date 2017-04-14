@@ -1,5 +1,5 @@
-#阅读
-![](images/book.png)
+
+![](../images/book.png)
 # 人生
 ## 肖申克的救赎
 >标签：希望
