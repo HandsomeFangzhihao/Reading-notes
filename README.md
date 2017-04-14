@@ -1,5 +1,7 @@
 # 笔记-电影/名言/阅读
 
+![](https://github.com/HandsomeFangzhihao/Reading-notes/tree/master/images/mingyan.jpg)
+
 >我想让每一次观看/阅读都变得意义非凡
 
 	这个世界上，能让我颤栗的事物大体有六种—
