@@ -1,4 +1,4 @@
-![image](images/mingyan.png)
+![image](Reading-notes/images/mingyan.png)
 
 # 爱情
 	如果你非要拒绝我，请不要那么绝对。因为你的一句	"我没那么喜欢你"，
