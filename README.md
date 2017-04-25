@@ -10,9 +10,9 @@
 
 
 ## 目录
-*   [电影](chapters/01movie.md)
+*   [技术](chapters/01technology.md)
 	
-	*   [活着](chapters/01movie.md#活着)
+	*   [数据分析](chapters/01technology.md#数据分析)
 
 *   [名言](chapters/02mingyan.md)
 
